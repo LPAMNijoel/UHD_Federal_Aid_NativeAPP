@@ -1,0 +1,9 @@
+/Users/admin/Projects/UHDFAid/UHDFAid/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/admin/Projects/UHDFAid/UHDFAid/bin/Debug/UHDFAid.dll.config
+/Users/admin/Projects/UHDFAid/UHDFAid/bin/Debug/UHDFAid.dll.mdb
+/Users/admin/Projects/UHDFAid/UHDFAid/bin/Debug/UHDFAid.dll
+/Users/admin/Projects/UHDFAid/UHDFAid/obj/Debug/UHDFAid.dll
+/Users/admin/Projects/UHDFAid/UHDFAid/obj/Debug/UHDFAid.dll.mdb
+/Users/admin/Projects/UHDFAid/UHDFAid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/admin/Projects/UHDFAid/UHDFAid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/admin/Projects/UHDFAid/UHDFAid/bin/Debug/Newtonsoft.Json.dll
